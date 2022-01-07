@@ -1,0 +1,2 @@
+# Desafio: Sintaxe e Operadores
+Projeto desenvolvido durante o desafio do curso de Sintaxe e Operadores pela Digital Innovation One (DIO). Seu conteúdo é apenas para fins educativos em prol de fortalecer e revisar conceitos e técnicas sobre a linguagem.
